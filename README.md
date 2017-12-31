@@ -17,5 +17,5 @@ $ sbt
 > jmh:clean
 ```
 
-#### 詳細はQiitaに記事書いています
+#### 詳細はQiitaに記事へ
 - [JMHを使ってScalaのパフォーマンスを計測する](https://qiita.com/taketora/items/0cee66b5d5552285f5de)
